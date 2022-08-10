@@ -1,7 +1,7 @@
 👋 Hi, I’m Minh
 - I'm currently studying Computer Engineering at UCSB.
 - I'm interested in all things robotics and cars. In my free time I like work on my car, and I'm making plans to create a full sized BB8 droid from Star Wars.
-- When I'm unable to work on mechanical/electrical things, I'm learning full stack development. My current stack I'm using for my portfolio project (check out my github repo) includes ReactJS + Astro (currently in migration from CRA). I'm also a neovim enjoyer.
+- When I'm unable to work on mechanical/electrical things, I'm learning web development. My current stack I'm using for my portfolio project (check out my github repo) includes ReactJS + Astro (currently in migration from CRA). I'm also a neovim enjoyer.
 
 ### Tools and languages:
 <div>
