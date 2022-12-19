@@ -23,7 +23,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" **alt="Arduino" width="40" height="40"/>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhbui27&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhbui27&layout=compact&theme=dracula&exclude_repo=portfolio-project)](https://github.com/anuraghazra/github-readme-stats)
 ### Contacts
 - email: minhbui@ucsb.edu or ultraminh2709@gmail.com
 <div id="badges">
