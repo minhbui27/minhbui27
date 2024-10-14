@@ -1,8 +1,5 @@
 👋 Hi, I’m Minh
-- I'm currently studying Computer Engineering at UCSB.
-- I'm interested in all things robotics and cars. In my free time I like work on my car, and I'm making plans to create an 8-bit breadboard computer.
-- When I'm unable to work on mechanical/electrical things, I'm learning web development. My current stack I'm using for my portfolio project (check out my github repo) includes ReactJS + Astro (currently in migration from CRA). I'm also a neovim enjoyer.
-
+- I'm a MS ECE student at UCSB with an emphasis in VLSI, semiconductor engineering, computer architecture and systems.
 ### Tools and languages:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
