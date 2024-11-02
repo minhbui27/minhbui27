@@ -1,5 +1,6 @@
 👋 Hi, I’m Minh
 - I'm a MS ECE student at UCSB with an emphasis in VLSI, semiconductor engineering, computer architecture and systems.
+- My research emphasis is on homogenous fabric architectures that allows for subcore resource division
 ### Tools and languages:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
